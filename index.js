@@ -8,9 +8,9 @@ client.on('ready', () => {
 //now we have to tell the client that if we write a message he has to read it and he has to answer us
 
 client.on('messageCreate', message => {
-  if(message.content === "!test") //command { 
+  if(message.content === "!test") { //command
     message.channel.send("This test is successful!") //bot's reply
-  } else if(message.content === "hello") //same {
+  } else if(message.content === "hello") { //same
     message.channel.send("Hello!") //same
   }  
 })

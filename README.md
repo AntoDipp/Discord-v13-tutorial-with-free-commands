@@ -10,7 +10,45 @@ To access the various pages of the tutorial click on main! [How to access branch
 
 Please install [the latest version of Node.js here](https://nodejs.org)
 
-Important package:
+# If you use Repl.it follow this tutorial
+
+Copy this to repl.it shell:
+
+```bash
+npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH
+```
+
+Create a file with this name: .replit
+and put this code:
+
+```bash
+run="npm start"
+```
+Make sure your package.json looks like this:
+
+```bash
+{
+  "name": "Il-test-del-tutorial-di-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "node ."
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  },
+  "devDependencies": {
+    "node": "^16.13.1"
+  },
+  "description": ""
+}
+```
+Perfect you finished; now install the package below
+
+# Important package:
 ```bash
 discord.js
 ```

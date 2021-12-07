@@ -45,3 +45,4 @@ module.exports = async (client) => {
         // await client.application.commands.set(arrayOfSlashCommands);
     });
 }
+//thanks to Reconlx for handlers and events

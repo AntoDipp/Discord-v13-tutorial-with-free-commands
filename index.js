@@ -5,11 +5,13 @@ client.on('ready', () => {
   console.log(`${client.user.tag} is alive :D`)
 })
 
+//now we have to tell the client that if we write a message he has to read it and he has to answer us
+
 client.on('messageCreate', message => {
-  if(message.content === "!test") {
-    message.channel.send("This test is successful!")
-  } else if(message.content === "hello") {
-    message.channel.send("Hello!")
+  if(message.content === "!test") //command { 
+    message.channel.send("This test is successful!") //bot's reply
+  } else if(message.content === "hello") //same {
+    message.channel.send("Hello!") //same
   }  
 })
 

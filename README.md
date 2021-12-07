@@ -10,5 +10,13 @@ Now open index.js in the files above and copy everything I wrote paying attentio
 
 Then write in the console node index.js and now your bot will be online!
 
+## Now we need to get a message to the bot!
+
+So let the bot read our message and send a message!
+
+I have inserted 2 commands and 2 answers; look at them in the index.js
+
+If you write hello the bot will answer you! Even with tests!
+
 If everything worked, go to the next tutorial!
 If you have problems, open a request here on github!

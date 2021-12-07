@@ -21,6 +21,7 @@ module.exports = client; //module.exports
 client.commands = new Collection() //create a new Collection for commands
 client.prefix = "your prefix here"//put your prefix without ""
 client.aliases = new Collection() //create a new Collection for aliases
+client.slashCommands = new Collection(); //create a new Collectio for Slash Commands
 
 require('./handler')(client); //let the bot understand that he must use handlers
 

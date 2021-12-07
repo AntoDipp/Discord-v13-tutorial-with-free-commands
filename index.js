@@ -11,8 +11,10 @@ client.on('messageCreate', message => {
   if(message.content === "!test") { //command
     message.channel.send("This test is successful!") //bot's reply
   } else if(message.content === "hello") { //same
-    message.channel.send("Hello!") //same
-  }  
+    message.channel.send("Hello!")//same
+  } else if(message.content === "cosa") {
+    message.channel.send("La cacca rosa")
+  }
 })
 
 client.login(process.env.'put the name of your . env file with the bot token') //if you want to use a config.json file change process.env.token with config.token and remember that the token value in the config file must have the token name!

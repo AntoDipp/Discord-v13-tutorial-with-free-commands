@@ -1,5 +1,13 @@
 # This tutorial is incomplete. I will update it as soon as I can.
 
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![Downloads](https://img.shields.io/github/downloads/AntoDipp/Discord-v13-tutorial-with-free-commands/total)]
+[![Activity](https://img.shields.io/github/commit-activity/m/AntoDipp/Discord-v13-tutorial-with-free-commands)]
+
 # Before you start
 
 The tutorial was created to help you update your bot to version 13 of Discord. If you want to create a bot without knowing anything about Javascript change tutorial! If you know the basics you are instead in the right place. A Youtube tutorial will be created in the future (if required)
@@ -52,6 +60,9 @@ Perfect you finished; now install the package below
 ```bash
 discord.js
 ```
+## Authors
+
+- [@AntoDipp](https://www.github.com/AntoDipp)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change

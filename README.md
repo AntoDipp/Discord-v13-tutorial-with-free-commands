@@ -13,4 +13,5 @@ Now write the code
 Open a ticket on github if you have problems!
 
 ## Example
-Click me to see an example of the help menu
+![Menù](https://user-images.githubusercontent.com/52698241/145221768-d7fbe2d9-6d29-494c-8c54-1492226456df.png)
+![Category](https://user-images.githubusercontent.com/52698241/145221783-762d79ca-3e39-4890-bb31-220fc501aa25.png)

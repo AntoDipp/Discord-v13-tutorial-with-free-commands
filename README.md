@@ -1,9 +1,5 @@
 # This tutorial is incomplete. I will update it as soon as I can.
 
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 ![Downloads](https://img.shields.io/github/downloads/AntoDipp/Discord-v13-tutorial-with-free-commands/total)
 ![Activity](https://img.shields.io/github/commit-activity/m/AntoDipp/Discord-v13-tutorial-with-free-commands)

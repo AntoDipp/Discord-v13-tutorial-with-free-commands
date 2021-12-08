@@ -1,4 +1,4 @@
-const chalk = require(`chalk`); //we need chalk
+const chalk = require(`chalk`); //we need chalk but with the last update could cause problems so write npm i chalk@4.1.2 in the console
 const {
     MessageSelectMenu,
     MessageActionRow

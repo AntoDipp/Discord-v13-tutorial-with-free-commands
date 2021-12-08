@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 ![Downloads](https://img.shields.io/github/downloads/AntoDipp/Discord-v13-tutorial-with-free-commands/total)
-![Activity](https://img.shields.io/github/commit-activity/w/AntoDipp/Discord-v13-tutorial-with-free-commands)
+![Activity](https://img.shields.io/github/commit-activity/y/AntoDipp/Discord-v13-tutorial-with-free-commands)
 
 # Before you start
 

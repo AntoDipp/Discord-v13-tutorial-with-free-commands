@@ -4,7 +4,7 @@ client.on("messageCreate", async (message) => { //the client catch a message
     if (message.author.bot || !message.guild) return
     if (!message.content.startsWith(process.env.PREFIX)) return; //add your prefix on process.env.PREFIX
     const [cmd, ...args] = message.content
-        .slice(process.env.PREFIX.length) //add your prefix on process.env.PREFIX and add .lenght Ex: !.lenght
+        .slice(process.env.PREFIX.length) //add your prefix on process.env.PREFIX using a config.json file! so do const prefix = require('../config.json')
         .trim()
         .split(" ");
     const Discord = require('discord.js')

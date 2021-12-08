@@ -1,4 +1,4 @@
-# This tutorial is incomplete. I will update it as soon as I can.
+# The basic tutorial is finally over! When I have time I will publish other tutorials and other commands in this repostory!
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 ![Downloads](https://img.shields.io/github/downloads/AntoDipp/Discord-v13-tutorial-with-free-commands/total)

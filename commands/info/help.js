@@ -7,7 +7,7 @@ const {
     readdirSync
 } = require("fs");
 const client = require('../../index') //define client
-const prefix = !; //ad your prefix (! is an example)
+const prefix = "!"; //ad your prefix (! is an example)
 let color = "#ffff00"; //add your help color
 
 const create_mh = require(`../../functions/menu.js`); //Here you need to create a function or the menu. Remember to create it before starting the bot; you find the code in the functions folder
